@@ -12,6 +12,7 @@ Overdraft protection (prevents invalid expenses)
 File handling for persistent data storage
 Monthly and overall financial reports
 Categorized transaction tracking
+
 🛠️ Tech Stack
 Language: Java
 IDE: VS Code
@@ -20,32 +21,38 @@ Object-Oriented Programming (OOP)
 File Handling (BufferedReader, FileWriter)
 Date Handling (LocalDate)
 Collections (ArrayList)
+
 🧠 OOP Concepts Implemented
 Abstraction: Transaction abstract class
 Inheritance: Income & Expense classes
 Polymorphism: apply() method behavior
 Encapsulation: Account class manages balance
+
 📊 Project Workflow
 User Input → Validation → Transaction Creation → Balance Update → Save to File → Generate Reports
+
 📂 Modules
 Transaction Module
 Account Management
 File Handling System
 Console UI
 Report Generation
+
 📈 Output
 Tracks income & expenses
 Generates financial summaries
 Maintains persistent records
+
 🔮 Future Enhancements
 GUI (JavaFX / Swing)
 Database integration (MySQL)
 User authentication
 Web/Mobile version
 Data visualization (charts)
+
 🔗 Project Link
 
-GitHub Repository
+GitHub Repository : https://github.com/Charan378/TCS-ion-Industry-Project-Personal-Finance-tracker
 
 🙌 Acknowledgement
 
